@@ -2,6 +2,8 @@ header{
     height: 250px;
     background-color: rgb(218, 106, 25);
     border-radius: 10px;
+    background-image: url(https://images.pexels.com/photos/19850346/pexels-photo-19850346.jpeg);
+    background-size: cover;
 }
 main{
     min-height: 800px;
